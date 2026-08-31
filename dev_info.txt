@@ -1,0 +1,3 @@
+hi in this doc you will find some infromation of dev
+js:it is a langouge of programming created for build websits and make more pretty
+node: it is a runtime of js where we can run js code
