@@ -1,0 +1,3 @@
+hi here I will explian git and github
+github:it is a platform where everyone can put his code source and save it
+git:it is controler of github that help to control your file easly from terminal and update it add commint and it make it easy to work as theam
